@@ -1,42 +1,8 @@
-﻿**A report on** 
 
-**“Result Management System”**
-
-**Course Title: Software Development Sessional** **Course Code: CSE302** 
-
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.001.png)
-
-**Submitted By:**  
-
-1 
-
-**Md Imranul Haque** Student ID: 2002043 Level-3, Semester -I Department of Computer Science and Engineering![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.002.png)
-
-**Md.Ashiqul Tareq Titu Md. Sourav Islam** Student ID: 2002056 Student ID: 2002038 Level-3, Semester -I Level-3, Semester -I Department of Computer  Department of Computer Science and Engineering Science and Engineering
+![Screenshot 2024-02-13 105058](https://github.com/Imran-2022/resultManagement_java/assets/91984650/6fe2d99f-7fc1-4fbd-bc0a-1346bc52e36a)
+![Screenshot 2024-02-13 105222](https://github.com/Imran-2022/resultManagement_java/assets/91984650/2022f0b0-ca15-4860-8306-60f8fa7dbebc)
 
 
-
-Department of Computer Science and Engineering 
-
-Faculty of Computer Science and Engineering 
-
-Hajee Mohammad Danesh Science and Technology University, Dinajpur 
-
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.003.png)
-
-**CERTIFICATE** 
-
-This is to certify that **Md Imranul Haque**, **Md Ashiqul Tareq Titu**, and **Md Sourav Islam** submit this project work entitled **“RESULT MANAGEMENT SYSTEM”**, which is carried out in partial fulfilment for the award of the degree of Bachelor of Science (Engineering) in Computer Science and Engineering. This record represents their own work conducted under supervision and guidance. 
-
-Supervisor 
-
-**Md. Fazle Rabbi** 
-
-Professor 
-
-Department of Computer Science & Engineering, 
-
-Hajee Mohammad Danesh Science and Technology University, Dinajpur 
 
 **Acknowledgment** 
 
