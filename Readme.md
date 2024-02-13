@@ -51,7 +51,9 @@ Contents
    6. [User Training and Feedback:................................................................................................................ 11 ](#_page10_x54.00_y471.68)
 6. [Maintenance Phase ................................................................................................................................ 12 ](#_page11_x54.00_y57.68)
 
-[**Chapter 4 - Result and discussion ................................................................................................................ 13** ](#_page12_x54.00_y57.68)[Chapter 05 – Conclusion  .............................................................................................................................. 26** ](#_page25_x54.00_y57.68)
+[**Chapter 4 - Result and discussion ................................................................................................................ 13** ](#_page12_x54.00_y57.68)
+
+[Chapter 05 – Conclusion  .............................................................................................................................. 26** ](#_page25_x54.00_y57.68)
 
 1. [Conclusion: ............................................................................................................................................ 26 ](#_page25_x54.00_y128.68)
 1. [Limitations: ........................................................................................................................................... 26 ](#_page25_x54.00_y522.68)
@@ -189,55 +191,103 @@ By establishing a systematic approach to maintenance and updates, the Result Man
 
 **“First Page”**
 
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.006.jpeg)
-
+<p align="center">
+  <kbd>
+    <img src="images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.006.jpeg" alt="Print Report" width="700" height="500" style="border: 2px solid black; border-radius: 10px;">
+  </kbd>
+</p>
 **“Admin Login”**
 
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.007.jpeg)
-
+<p align="center">
+  <kbd>
+    <img src="images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.007.jpeg" alt="Print Report" width="700" height="500" style="border: 2px solid black; border-radius: 10px;">
+  </kbd>
+</p>
 **“Add New Student”**
 
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.008.jpeg)
-
+<p align="center">
+  <kbd>
+    <img src="images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.008.jpeg" alt="Print Report" width="700" height="500" style="border: 2px solid black; border-radius: 10px;">
+  </kbd>
+</p>
 **“Insert New Result”**
 
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.009.jpeg)
+<p align="center">
+  <kbd>
+    <img src="images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.009.jpeg" alt="Print Report" width="700" height="500" style="border: 2px solid black; border-radius: 10px;">
+  </kbd>
+</p>
 
 **“Registered Student”** 
 
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.010.jpeg)
+<p align="center">
+  <kbd>
+    <img src="images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.010.jpeg" alt="Print Report" width="700" height="500" style="border: 2px solid black; border-radius: 10px;">
+  </kbd>
+</p>
 
 **“All Student Result”** 
 
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.011.jpeg)
-
+<p align="center">
+  <kbd>
+    <img src="images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.011.jpeg" alt="Print Report" width="700" height="500" style="border: 2px solid black; border-radius: 10px;">
+  </kbd>
+</p>
 **“Update Student”** 
 
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.012.jpeg)
-
+<p align="center">
+  <kbd>
+    <img src="images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.012.jpeg" alt="Print Report" width="700" height="500" style="border: 2px solid black; border-radius: 10px;">
+  </kbd>
+</p>
 **“Update Result”** 
 
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.013.jpeg)
+<p align="center">
+  <kbd>
+    <img src="images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.013.jpeg" alt="Print Report" width="700" height="500" style="border: 2px solid black; border-radius: 10px;">
+  </kbd>
+</p>
 
 **“Delete Student”** 
 
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.014.jpeg)
+<p align="center">
+  <kbd>
+    <img src="images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.014.jpeg" alt="Print Report" width="700" height="500" style="border: 2px solid black; border-radius: 10px;">
+  </kbd>
+</p>
 
 **“Delete Result”** 
 
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.015.jpeg)
+<p align="center">
+  <kbd>
+    <img src="images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.015.jpeg" alt="Print Report" width="700" height="500" style="border: 2px solid black; border-radius: 10px;">
+  </kbd>
+</p>
 
 **“Student”           “Choose Class & Roll”**
 
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.016.jpeg)
+<p align="center">
+  <kbd>
+    <img src="images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.016.jpeg" alt="Print Report" width="700" height="500" style="border: 2px solid black; border-radius: 10px;">
+  </kbd>
+</p>
 
 **“Progress Report”** 
 
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.017.jpeg)
+<p align="center">
+  <kbd>
+    <img src="images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.017.jpeg" alt="Print Report" width="700" height="500" style="border: 2px solid black; border-radius: 10px;">
+  </kbd>
+</p>
 
 **“Print Report”** 
 
-![](images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.018.jpeg)
+<p align="center">
+  <kbd>
+    <img src="images/Aspose.Words.506981bf-a02d-4a4c-8799-7551db115474.018.jpeg" alt="Print Report" width="700" height="500" style="border: 2px solid black; border-radius: 10px;">
+  </kbd>
+</p>
+
 
 <a name="_page25_x54.00_y57.68"></a>**Chapter 05** 
 
